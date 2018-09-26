@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <head>
   <title>Anna Dowlin</title>
+  <link href="normalize.css" rel="stylesheet">
   <style>
     body {
       text-align: center;
